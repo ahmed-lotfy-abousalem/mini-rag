@@ -1,0 +1,2 @@
+This is a test file for uploading to the mini-rag API via Postman.
+It contains plain text content to verify the /api/v1/data/upload endpoint.
